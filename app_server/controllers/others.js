@@ -1,5 +1,5 @@
 const about = (req, res) => {  
-    res.render('index', { title: 'Monish web page' });   
+    res.render('index', { title: 'about' });   
 };
 module.exports = {
     about
