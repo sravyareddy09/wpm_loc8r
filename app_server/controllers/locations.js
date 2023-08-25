@@ -2,10 +2,10 @@ const homelist = (req, res) => {
     res.render('locations-list', { title: 'homeList' });   
 };
 const locationInfo = (req, res) => {  
-    res.render('index', { title: 'locationInfo' });   
+    res.render('location-info', { title: 'locationInfo' });   
 };
 const addReview = (req, res) => {  
-    res.render('index', { title: 'addReview' });   
+    res.render('location-review-form', { title: 'addReview' });   
 };
 module.exports = {
     homelist,
