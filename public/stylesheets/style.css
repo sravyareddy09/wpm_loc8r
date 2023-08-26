@@ -4,6 +4,15 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Lobster', cursive;
   color: #fff;
 }
+.lead{
+  font-family: 'Lobster', cursive;
+  color: #fff;
+}
+.text{
+  font-family: 'Lobster', cursive;
+  color: #696969;
+  font-size: x-large;
+}
 
 legend {
   font-family: 'Lobster', cursive;
